@@ -9,9 +9,9 @@ Esta é uma aplicação web que oferece uma calculadora de Índice de Massa Corp
   Tabela de classificação do IMC com diferentes faixas de valores.
   
 ## Tecnologias Utilizadas
-  .HTML
-  .CSS (com efeitos de estilo, bordas e sombras)
-  .JavaScript (para validação e cálculos interativos)
+  ##HTML.
+  ###CSS (com efeitos de estilo, bordas e sombras).
+  ###JavaScript (para validação e cálculos interativos).
   
 ## Responsividade
   O layout da aplicação é responsivo, adaptando-se a diferentes tamanhos de tela para uma experiência de usuário consistente.
